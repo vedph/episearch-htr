@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>astori_letters_1-18.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2142"
+          HEIGHT="2862"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2142"
+                  HEIGHT="2862">
+        
+        <TextBlock HPOS="419"
+                   VPOS="457"
+                   WIDTH="1484"
+                   HEIGHT="694"
+                   ID="eSc_textblock_06664a82"
+                   >
+          <Shape><Polygon POINTS="601 457 980 486 1190 562 1388 562 1428 515 1474 524 1476 562 1703 562 1753 476 1884 467 1903 903 1865 942 1676 951 1684 1094 1626 1123 448 1151 457 1039 667 989 601 820 467 770 419 674 467 515 601 457"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_28a9c572"
+                    
+                    BASELINE="648 729 884 715 1373 725 1669 715" 
+                    HPOS="389"
+                    VPOS="444"
+                    WIDTH="1283"
+                    HEIGHT="307">
+            <Shape><Polygon POINTS="389 751 481 444 866 491 746 620 748 620 789 634 844 608 846 608 849 608 925 617 966 593 968 593 970 593 973 593 1178 593 1180 593 1183 593 1242 634 1297 634 1352 596 1354 596 1357 596 1359 596 1362 596 1440 627 1486 593 1488 593 1490 593 1493 593 1495 593 1497 593 1559 634 1664 634 1669 715 1672 727 1617 746 1614 746 1612 746 1476 732 1447 729 1443 732 1426 746 1424 746 1421 746 1419 746 1416 746 1390 734 1385 732 1352 734 1221 748 1218 748 1216 748 1214 748 1197 739 1185 732 1075 732 1044 741 1020 748 1018 748 1016 748 939 744 787 732 741 748 739 748 737 748 737 751 648 751"/></Shape>
+	    <String CONTENT="Tra le lettere separ."
+                    HPOS="389"
+                    VPOS="444"
+                    WIDTH="1283"
+                    HEIGHT="307"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac0c21c4"
+                    
+                    BASELINE="669 882 1831 882" 
+                    HPOS="665"
+                    VPOS="778"
+                    WIDTH="1164"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="667 880 665 851 717 841 779 784 779 782 782 782 784 782 787 782 830 782 832 782 834 782 901 793 946 788 1006 778 1023 796 1070 789 1037 851 1128 829 1130 829 1243 779 1453 790 1524 846 1593 794 1610 782 1612 782 1614 782 1617 782 1829 782 1829 880 1827 915 1772 906 1738 918 1736 918 1734 918 1731 918 1729 918 1712 906 1631 920 1607 922 1605 922 1602 922 1600 922 1598 920 1586 908 1457 906 1409 906 1383 925 1366 934 1364 934 1362 934 1362 937 1247 937 1245 934 1242 934 1223 927 1197 915 1159 927 1135 934 1133 934 1130 934 1128 934 1113 927 1063 906 1020 906 951 932 939 934 937 934 935 934 932 934 930 934 927 932 896 906 837 906 813 927 813 930 811 930 808 930 667 934"/></Shape>
+	    <String CONTENT="1717 e di"
+                    HPOS="665"
+                    VPOS="778"
+                    WIDTH="1164"
+                    HEIGHT="159"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e50d403"
+                    
+                    BASELINE="484 1128 966 1106 1569 1099" 
+                    HPOS="477"
+                    VPOS="1006"
+                    WIDTH="1092"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="484 1128 477 1032 601 1018 601 1018 603 1018 603 1018 605 1018 605 1018 605 1018 608 1018 608 1018 608 1020 617 1027 632 1039 651 1027 655 1023 658 1023 658 1023 658 1023 660 1023 660 1023 663 1023 663 1023 663 1023 665 1023 665 1023 665 1023 672 1027 694 1039 710 1025 717 1018 717 1018 720 1018 720 1018 720 1018 722 1018 722 1018 722 1018 725 1018 725 1018 727 1018 727 1018 746 1025 758 1030 765 1025 775 1016 775 1013 775 1013 777 1013 777 1013 777 1013 779 1013 779 1013 779 1013 923 1011 925 1011 925 1011 927 1011 927 1011 927 1011 946 1020 982 1039 1073 1025 1073 1025 1075 1025 1075 1025 1075 1025 1078 1025 1078 1025 1116 1039 1192 1037 1226 1018 1226 1018 1226 1018 1228 1018 1228 1018 1228 1018 1230 1018 1230 1018 1233 1018 1233 1018 1233 1018 1235 1018 1235 1018 1257 1037 1352 1037 1509 1032 1559 1006 1569 1099 1569 1132 1378 1137 1376 1137 1376 1137 1373 1137 1373 1137 1373 1137 1316 1116 1202 1132 1202 1132 1199 1132 1199 1132 1113 1120 1054 1144 1044 1147 1044 1147 1042 1147 1042 1147 1042 1147 1039 1147 1039 1147 1020 1144 966 1135 951 1147 949 1149 949 1149 949 1149 946 1149 946 1149 944 1149 944 1149 944 1149 942 1149 942 1149 939 1149 925 1147 877 1135 827 1142 827 1142 825 1142 825 1142 825 1142 822 1142 775 1128 696 1142 696 1142 696 1142 694 1142 565 1135 486 1154"/></Shape>
+	    <String CONTENT="alcuni altri anni come"
+                    HPOS="477"
+                    VPOS="1006"
+                    WIDTH="1092"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

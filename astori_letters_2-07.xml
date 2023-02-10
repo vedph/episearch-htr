@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>astori_letters_2-07.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1545"
+          HEIGHT="2171"
+          PHYSICAL_IMG_NR="30"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1545"
+                  HEIGHT="2171">
+        
+        <TextBlock HPOS="130"
+                   VPOS="151"
+                   WIDTH="121"
+                   HEIGHT="78"
+                   ID="eSc_textblock_993e94ae"
+                   >
+          <Shape><Polygon POINTS="188 151 244 159 251 229 130 229 137 159 188 151"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae785df2"
+                    
+                    BASELINE="161 217 235 218" 
+                    HPOS="157"
+                    VPOS="146"
+                    WIDTH="78"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="161 217 157 159 197 146 199 146 199 146 201 146 201 146 201 146 235 153 235 218 231 255 157 253"/></Shape>
+	    <String CONTENT=""
+                    HPOS="157"
+                    VPOS="146"
+                    WIDTH="78"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

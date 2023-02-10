@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>astori_letters_2-05.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1528"
+          HEIGHT="2072"
+          PHYSICAL_IMG_NR="28"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1528"
+                  HEIGHT="2072">
+        
+        <TextBlock HPOS="41"
+                   VPOS="718"
+                   WIDTH="5"
+                   HEIGHT="5"
+                   ID="eSc_textblock_8bdbafc9"
+                   >
+          <Shape><Polygon POINTS="46 718 46 723 41 723 41 718"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="90"
+                   VPOS="605"
+                   WIDTH="10"
+                   HEIGHT="8"
+                   ID="eSc_textblock_d98c27ea"
+                   >
+          <Shape><Polygon POINTS="90 605 90 613 100 613 100 605"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_9fe0fd81"
+                    
+                    BASELINE="221 193 324 196" 
+                    HPOS="219"
+                    VPOS="134"
+                    WIDTH="105"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="221 193 219 139 323 134 324 196 323 210 219 215"/></Shape>
+	    <String CONTENT=""
+                    HPOS="219"
+                    VPOS="134"
+                    WIDTH="105"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f514d20"
+                    
+                    BASELINE="710 91 671 91 637 79 549 32 490 1 244 0" 
+                    HPOS="244"
+                    VPOS="0"
+                    WIDTH="466"
+                    HEIGHT="91">
+            
+	    <String CONTENT=""
+                    HPOS="244"
+                    VPOS="0"
+                    WIDTH="466"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04d58488"
+                    
+                    BASELINE="36 609 129 612" 
+                    HPOS="34"
+                    VPOS="574"
+                    WIDTH="95"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="36 609 36 574 127 578 129 612 127 619 34 621"/></Shape>
+	    <String CONTENT=""
+                    HPOS="34"
+                    VPOS="574"
+                    WIDTH="95"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_038b33be"
+                    
+                    BASELINE="53 675 131 678" 
+                    HPOS="51"
+                    VPOS="631"
+                    WIDTH="80"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="53 675 55 631 77 642 129 638 131 678 129 709 108 709 107 707 107 707 105 707 105 707 105 707 103 707 103 707 103 706 96 701 81 685 51 688"/></Shape>
+	    <String CONTENT=""
+                    HPOS="51"
+                    VPOS="631"
+                    WIDTH="80"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

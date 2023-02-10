@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>astori_letters_1-01.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2026"
+          HEIGHT="2704"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2026"
+                  HEIGHT="2704">
+        
+        <TextBlock HPOS="324"
+                   VPOS="207"
+                   WIDTH="124"
+                   HEIGHT="61"
+                   ID="eSc_textblock_8e52073d"
+                   >
+          <Shape><Polygon POINTS="324 207 430 207 448 250 324 268 324 207"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5186ed59"
+                    
+                    BASELINE="315 259 437 254" 
+                    HPOS="301"
+                    VPOS="-4"
+                    WIDTH="136"
+                    HEIGHT="296">
+            <Shape><Polygon POINTS="315 259 301 0 421 -4 437 254 437 283 315 292"/></Shape>
+	    <String CONTENT=""
+                    HPOS="301"
+                    VPOS="-4"
+                    WIDTH="136"
+                    HEIGHT="296"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="585"
+                   VPOS="775"
+                   WIDTH="674"
+                   HEIGHT="151"
+                   ID="eSc_textblock_d0c66475"
+                   >
+          <Shape><Polygon POINTS="585 908 585 820 856 775 1250 802 1259 863 655 926 585 908"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f9e856f5"
+                    
+                    BASELINE="588 887 1241 854" 
+                    HPOS="579"
+                    VPOS="797"
+                    WIDTH="662"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="588 887 579 854 624 820 624 820 626 820 626 820 628 820 628 820 628 820 700 817 703 817 703 817 705 817 705 817 705 817 759 842 759 842 851 838 851 838 908 811 908 811 910 811 910 811 910 811 912 811 912 811 914 811 914 811 914 811 917 811 917 811 937 829 975 829 1007 829 1014 826 1059 797 1061 797 1061 797 1061 797 1063 797 1063 797 1065 797 1065 797 1068 797 1068 797 1117 815 1133 802 1133 799 1133 799 1135 799 1135 799 1138 799 1138 799 1138 799 1140 799 1140 799 1142 799 1142 799 1142 799 1144 799 1167 815 1185 802 1187 802 1187 802 1187 802 1189 802 1189 802 1192 802 1192 802 1192 802 1237 813 1241 854 1241 872 1025 872 975 890 969 892 969 892 966 892 966 892 964 892 964 892 964 892 962 892 962 892 960 892 960 892 960 892 937 876 831 881 741 908 718 912 716 912 716 912 588 917"/></Shape>
+	    <String CONTENT=""
+                    HPOS="579"
+                    VPOS="797"
+                    WIDTH="662"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="865"
+                   VPOS="567"
+                   WIDTH="124"
+                   HEIGHT="115"
+                   ID="eSc_textblock_7d957ccf"
+                   >
+          <Shape><Polygon POINTS="962 576 989 612 971 682 865 673 883 567 962 576"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e97fdb65"
+                    
+                    BASELINE="894 664 951 662" 
+                    HPOS="890"
+                    VPOS="594"
+                    WIDTH="61"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="894 664 890 594 946 594 951 662 948 689 892 680"/></Shape>
+	    <String CONTENT=""
+                    HPOS="890"
+                    VPOS="594"
+                    WIDTH="61"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="901"
+                   VPOS="405"
+                   WIDTH="214"
+                   HEIGHT="151"
+                   ID="eSc_textblock_ec378376"
+                   >
+          <Shape><Polygon POINTS="901 556 901 405 944 423 973 531 1070 513 1090 441 1115 529 901 556"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="522"
+                   VPOS="333"
+                   WIDTH="287"
+                   HEIGHT="259"
+                   ID="eSc_textblock_254911d8"
+                   >
+          <Shape><Polygon POINTS="718 583 540 592 522 441 703 333 772 342 809 387 772 529 718 583"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

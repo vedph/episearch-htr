@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>astori_letters_2-02.jpeg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1603"
+          HEIGHT="2255"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1603"
+                  HEIGHT="2255">
+        
+        <TextBlock HPOS="1492"
+                   VPOS="210"
+                   WIDTH="73"
+                   HEIGHT="81"
+                   ID="eSc_textblock_0b2c07d4"
+                   >
+          <Shape><Polygon POINTS="1514 210 1565 210 1550 291 1492 276 1514 210"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0b6b89b5"
+                    
+                    BASELINE="1516 266 1531 266" 
+                    HPOS="1514"
+                    VPOS="208"
+                    WIDTH="19"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1516 266 1514 212 1529 208 1531 266 1533 293 1518 300"/></Shape>
+	    <String CONTENT=""
+                    HPOS="1514"
+                    VPOS="208"
+                    WIDTH="19"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
