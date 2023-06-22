@@ -12,7 +12,7 @@ The directory contains
 9. astori_letters.mlmodel:  (model created from Astori’s letters, as refinement of 10.5281/zenodo.6657809)
 
 Provenance of the images (Internet Culturale, CC BY-NC-SA 3.0):
-https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai:www.internetculturale.sbn.it/Teca:20:NT0000:MO0089_A.M-52.01&mode=all&teca=MagTeca+-+ICCU
-https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai:www.internetculturale.sbn.it/Teca:20:NT0000:MO0089_A.M-49.38&mode=all&teca=MagTeca+-+ICCU
-https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai:www.internetculturale.sbn.it/Teca:20:NT0000:MO0089_A.M-37.10&mode=all&teca=MagTeca+-+ICCU
+1. https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai:www.internetculturale.sbn.it/Teca:20:NT0000:MO0089_A.M-52.01&mode=all&teca=MagTeca+-+ICCU
+2. https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai:www.internetculturale.sbn.it/Teca:20:NT0000:MO0089_A.M-49.38&mode=all&teca=MagTeca+-+ICCU
+3. https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai:www.internetculturale.sbn.it/Teca:20:NT0000:MO0089_A.M-37.10&mode=all&teca=MagTeca+-+ICCU
 
